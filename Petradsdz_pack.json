@@ -1,0 +1,22 @@
+{
+	"id": "Petradsdz_pack",
+	"name": "Petra Pack Mod",
+	"author": ["Petra"],
+	"description": "Smoke That Petra Pack",
+	"prefix": "petra",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "426a5a",
+	"badge_text_colour": "ffd779",
+	"display_name": "Petra Pack Mod",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (*)", 
+		"Lovely (*)", 
+		"malverk", 
+		"Balatro (>=1.0.1m)"],
+	"conflicts": [
+	],
+	"provides": [
+	]
+}
