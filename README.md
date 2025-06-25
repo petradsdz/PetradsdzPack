@@ -7,5 +7,5 @@ Within the Mod Manager, search for and install Steamodded, and [Malverk](https:/
 
 Now copy this folder (Titled Petradsdz Pack) into %AppData%\Balatro\Mods\
 
-# License?
+# License
 Code is GPLv3 and art is CC-BY-NC-SA 4.0
